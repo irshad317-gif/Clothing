@@ -5,7 +5,7 @@ export default function Index() {
     <View
       style={{
         flex: 1,
-        backgroundColor: "#f0f0f0",
+        alignItems: "center"
       }}
     >
       <Text style={{}}>CLOTHING</Text>
